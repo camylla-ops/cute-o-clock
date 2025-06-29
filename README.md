@@ -39,10 +39,3 @@ Você pode personalizar as cores editando as variáveis no arquivo `styles.css`:
   │ ✧ data ✧    │
   ╰──────────────╯
 ```
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Sinta-se livre para usar, modificar e distribuir! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-
----
-Feito com 💖 e muito kawaii! (◠‿◠✿) 
